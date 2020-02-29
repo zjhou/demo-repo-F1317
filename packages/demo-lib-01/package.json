@@ -1,0 +1,29 @@
+{
+  "name": "@ones-ai/demo-lib-01",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "ZjHOU <z@zjh.im>",
+  "homepage": "https://github.com/zjhou/demo-repo-F1317#readme",
+  "license": "ISC",
+  "main": "lib/demo-lib-01.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm2.myones.net/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjhou/demo-repo-F1317.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/zjhou/demo-repo-F1317/issues"
+  }
+}
